@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript, WebSocket and NodeJs**
 
-- 👨‍💻 All of my projects are available at [I'm working on it...](I'm working on it...)
+- 👨‍💻 All of my projects are available at "I'm working on it..."
 
 - 💬 Ask me about anything you want, **we can learn together :D**
 
