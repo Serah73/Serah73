@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Backgrid Responsive Technologies](https://backgrid.es)
 
-- 🌱 I’m currently learning **TypeScript, WebSocket and NodeJs**
+- 🌱 I’m currently learning **TypeScript, React and NodeJs**
 
 - 👨‍💻 All of my projects are available at "I'm working on it..."
 
