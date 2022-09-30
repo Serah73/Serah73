@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy desempleado.
 
-- 🌱 Aprendiendo **Jest**, **TypeScript** y **React**
+- 🌱 Aprendiendo **[Jest](https://github.com/Serah73/testing-jest)**, **TypeScript** y **React**
 
 - 📫 Puedes contactar conmigo a través de **joserrh97@gmail.com** o de mi [LinkedIn](https://linkedin.com/in/serah73)
 
