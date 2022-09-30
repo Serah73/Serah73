@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **TypeScript, React and NodeJs**
 
-- 👨‍💻 All of my projects are available at "I'm working on it..."
-
 - 💬 Ask me about anything you want, **we can learn together :D**
 
 - 📫 How to reach me **joserrh97@gmail.com**
