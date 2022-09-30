@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Ramón</h1>
 <h3 align="center">A passionate web developer from Canary Island, Spain</h3>
 
-- 🔭 I’m currently working on [Backgrid Responsive Technologies](https://backgrid.es)
+- 🔭 My last job was in [Backgrid Responsive Technologies](https://backgrid.es)
 
 - 🌱 I’m currently learning **TypeScript, React and NodeJs**
 
