@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy José</h1>
 <h3 align="center">Soy desarrollador web en las Islas Canarias, España</h3>
 
-- 🔭 Actualmente estoy desempleado.
+- 🔭 Actualmente estoy trabajando para **[Xelios](https://xelios.es)**.
 
 - 🌱 Aprendiendo **[Jest](https://github.com/Serah73/testing-jest)**, **TypeScript** y **React**
 
