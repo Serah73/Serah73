@@ -10,7 +10,7 @@
 - 🎓 Actualmente curso el **Máster Universitario en Ingeniería Informática** en la UOC.
 - 🌱 Estoy aprendiendo **OpenCV, Tesseract y python** para integrar soluciones de OCR.
 - 🧠 Me interesan especialmente los proyectos de **IA aplicada, visión por computador y biometría**.
-- 📍 Basado en Canarias | Abierto a proyectos remotos y colaboración técnica.
+- 📍 Resido en Canarias | Abierto a proyectos remotos y colaboración técnica.
 
 ---
 
