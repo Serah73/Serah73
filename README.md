@@ -1,12 +1,72 @@
-<h1 align="center">¡Hola! Soy José</h1>
-<h3 align="center">Soy desarrollador web en las Islas Canarias, España</h3>
+<h1 align="center">Hola 👋, soy José Ramón Rodríguez Hernández</h1>
+<h3 align="center">Ingeniero de Software especializado en backend, APIs y en proceso de transición hacia IA aplicada y biometría.</h3>
 
-- 🔭 Actualmente estoy trabajando para **[Xelios](https://xelios.es)**.
+---
 
-- 🌱 Aprendiendo **[Jest](https://github.com/Serah73/testing-jest)**, **TypeScript** y **React**
+## 🧑‍💻 Sobre mí
 
-- 📫 Puedes contactar conmigo a través de **joserrh97@gmail.com** o de mi [LinkedIn](https://linkedin.com/in/serah73)
+- 🎯 Actualmente trabajo como **Ingeniero de Software en Xelios Biometrics**, desarrollando soluciones biométricas en .NET, APIs REST y tareas complementarias de DevOps e integración de sistemas.
+- 📘 He completado el **Máster Online en Inteligencia Artificial e Innovación** de Founderz, obteniendo una doble certificación avalada por Founderz y Microsoft.
+- 🎓 Actualmente curso el **Máster Universitario en Ingeniería Informática** en la UOC.
+- 🌱 Estoy aprendiendo **OpenCV, Tesseract y python** para integrar soluciones de OCR.
+- 🧠 Me interesan especialmente los proyectos de **IA aplicada, visión por computador y biometría**.
+- 📍 Basado en Canarias | Abierto a proyectos remotos y colaboración técnica.
+
+---
+
+## 💼 Tecnologías y herramientas principales
+
+- .NET 8, .NET Framework 4.8, ASP.NET Core (Web API)
+- C#, Python, JavaScript
+- SQL Server, SQL Express
+- Entity Framework, patrones de diseño (Repository, Unit of Work, Singleton)
+- Uso básico: Docker, Tesseract OCR, OpenCV
+- Git, GitLab, SourceTree, TortoiseSVN
+- Visual Studio, VS Code
+- Desarrollo de APIs REST y servicios Windows
 
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Proyectos personales
+
+🔸 **Reconocimiento facial con OpenCV + .NET API** *(en desarrollo)*  
+_API REST que detecta rostros en imágenes usando Python y OpenCV, integrado con backend en .NET._
+
+🔸 **OCR con Tesseract para validación de documentos** *(planificado)*  
+_Sistema de reconocimiento de texto + validación automática de campos para documentos escaneados._
+
+🔸 **Más proyectos en camino...**  
+_(El objetivo es construir un portafolio potente en IA aplicada y backend integrado.)_
+
+---
+
+## 🎓 Formación y certificaciones
+
+- 🎓 Grado en Ingeniería Informática – ULL (2021)
+- 📚 Máster en Ingeniería Informática – UOC *(actualmente)*
+- 📚 Máster en IA e Innovación – Founderz *(2024)*
+- 📜 Certificación en Python, JavaScript, Biometric Administrator – IDEMIA
+
+---
+
+## 📈 GitHub Stats (opcional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Serah73&show_icons=true&theme=radical" alt="stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serah73&theme=radical" alt="streak"/>
+</p>
+
+---
+
+## 📫 Contacto
+
+- ✉️ **joserrh97@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/serah73/)
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 🙌  
+</p>
