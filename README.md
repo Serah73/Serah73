@@ -30,14 +30,8 @@
 
 ## 🚀 Proyectos personales
 
-🔸 **Reconocimiento facial con OpenCV + .NET API** *(en desarrollo)*  
-_API REST que detecta rostros en imágenes usando Python y OpenCV, integrado con backend en .NET._
-
-🔸 **OCR con Tesseract para validación de documentos** *(planificado)*  
-_Sistema de reconocimiento de texto + validación automática de campos para documentos escaneados._
-
-🔸 **Más proyectos en camino...**  
-_(El objetivo es construir un portafolio potente en IA aplicada y backend integrado.)_
+🔸 **Proyectos en camino...**  
+_(El objetivo es construir un portafolio potente en IA aplicada y backend integrado. Empleando patrones de diseño y arquitectura hexagonal)_
 
 ---
 
