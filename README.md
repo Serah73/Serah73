@@ -31,7 +31,7 @@
 ## 🚀 Proyectos personales
 
 🔸 **Proyectos en camino...**  
-_(El objetivo es construir un portafolio potente en IA aplicada y backend integrado. Empleando patrones de diseño y arquitectura hexagonal)_
+_(El objetivo es construir un portafolio potente en backend y DevOps. Empleando patrones de diseño y arquitectura hexagonal, posterior a la finalización del master en curso)_
 
 ---
 
