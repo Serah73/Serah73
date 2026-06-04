@@ -30,5 +30,3 @@
 - ✉️ joserrh97@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/serah73/)
 
----
-![stats](https://github-readme-stats.vercel.app/api?username=Serah73&show_icons=true&theme=default)
