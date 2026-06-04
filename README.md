@@ -1,66 +1,34 @@
-<h1 align="center">Hola 👋, soy José Ramón Rodríguez Hernández</h1>
-<h3 align="center">Ingeniero de Software especializado en backend, APIs y en proceso de transición hacia IA aplicada y biometría.</h3>
+# Hola 👋, soy José Ramón Rodríguez Hernández
+
+### Desarrollador Backend .NET · APIs REST · en transición hacia Cloud & DevOps (Azure)
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
+- 💻 Desarrollador backend en **Xelios Biometrics**: APIs REST en .NET 8 (C#) para sistemas biométricos en producción.
+- 🧱 Trabajo con arquitectura en capas, SQL Server, Docker y comunicación en tiempo real mediante sockets TCP.
+- ☁️ Orientando mi perfil hacia **Cloud & DevOps sobre Azure** (preparando AZ-104).
+- 🎓 Cursando el **Máster en Ingeniería Informática** en la UOC.
+- 📍 Canarias · Abierto a proyectos remotos.
 
-- 🎯 Actualmente trabajo como **Ingeniero de Software en Xelios Biometrics**, desarrollando soluciones biométricas en .NET, APIs REST y tareas complementarias de DevOps e integración de sistemas.
-- 📘 He completado el **Máster Online en Inteligencia Artificial e Innovación** de Founderz, obteniendo una doble certificación avalada por Founderz y Microsoft.
-- 🎓 Actualmente curso el **Máster Universitario en Ingeniería Informática** en la UOC.
-- 🌱 Estoy aprendiendo **OpenCV, Tesseract y python** para integrar soluciones de OCR.
-- 🧠 Me interesan especialmente los proyectos de **IA aplicada, visión por computador y biometría**.
-- 📍 Resido en Canarias | Abierto a proyectos remotos y colaboración técnica.
+## Stack principal
+- **Backend:** .NET 8, ASP.NET Core, C#, .NET Framework 4.8, LINQ, Entity Framework Core
+- **API:** REST, Swagger/OpenAPI, JWT, WebSockets / Sockets TCP
+- **Datos:** SQL Server, T-SQL
+- **DevOps:** Docker, Git, GitHub Actions, CI/CD
+- **Aprendiendo:** Azure, Bicep/Terraform
 
----
+## Proyectos destacados
+🔹 *(Se irán enlazando aquí conforme los publique)*
 
-## 💼 Tecnologías y herramientas principales
+## Formación y certificaciones
+- 🎓 Grado en Ingeniería Informática – ULL
+- 📚 Máster en Ingeniería Informática – UOC *(en curso)*
+- 📜 Biometric Administrator (Nivel 1) – IDEMIA
 
-- .NET 8, .NET Framework 4.8, ASP.NET Core (Web API)
-- C#, Python, JavaScript
-- SQL Server, SQL Express
-- Entity Framework, patrones de diseño (Repository, Unit of Work, Singleton)
-- Uso básico: Docker, Tesseract OCR, OpenCV
-- Git, GitLab, SourceTree, TortoiseSVN
-- Visual Studio, VS Code
-- Desarrollo de APIs REST y servicios Windows
-
-
----
-
-## 🚀 Proyectos personales
-
-🔸 **Proyectos en camino...**  
-_(El objetivo es construir un portafolio potente en backend y DevOps. Empleando patrones de diseño y arquitectura hexagonal, posterior a la finalización del master en curso)_
-
----
-
-## 🎓 Formación y certificaciones
-
-- 🎓 Grado en Ingeniería Informática – ULL (2021)
-- 📚 Máster en Ingeniería Informática – UOC *(actualmente)*
-- 📚 Máster en IA e Innovación – Founderz *(2024)*
-- 📜 Certificación en Python, JavaScript, Biometric Administrator – IDEMIA
-
----
-
-## 📈 GitHub Stats (opcional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serah73&show_icons=true&theme=radical" alt="stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serah73&theme=radical" alt="streak"/>
-</p>
-
----
-
-## 📫 Contacto
-
-- ✉️ **joserrh97@gmail.com**
+## Contacto
+- ✉️ joserrh97@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/serah73/)
 
 ---
-
-<p align="center">
-  Gracias por visitar mi perfil 🙌  
-</p>
+![stats](https://github-readme-stats.vercel.app/api?username=Serah73&show_icons=true&theme=default)
