@@ -19,7 +19,8 @@
 - **Aprendiendo:** Azure, Bicep/Terraform
 
 ## Proyectos destacados
-🔹 *(Se irán enlazando aquí conforme los publique)*
+- [Katas de práctica realizadas](https://www.codewars.com/users/Serah73)
+- *(Portfolio en progreso...)*
 
 ## Formación y certificaciones
 - 🎓 Grado en Ingeniería Informática – ULL
@@ -29,4 +30,7 @@
 ## Contacto
 - ✉️ joserrh97@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/serah73/)
+
+## Sitios de referencia
+- [Codewars](https://www.codewars.com/users/Serah73)
 
