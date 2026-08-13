@@ -19,7 +19,7 @@
 - **Aprendiendo:** Azure, Bicep/Terraform
 
 ## Proyectos destacados
-- [Katas de práctica realizadas](https://www.codewars.com/users/Serah73)
+- [Katas de práctica realizadas](https://github.com/Serah73/Katas), también puedes observar mi trabajo realizado en [Codewars](#sitios-de-referencia)
 - *(Portfolio en progreso...)*
 
 ## Formación y certificaciones
